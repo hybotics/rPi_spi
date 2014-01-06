@@ -1,5 +1,5 @@
-SPI-Py: Hardware SPI as a C Extension for Python
-======
+rPi_spi: Hardware SPI as a C Extension for Python
+=================================================
 
 COPYRIGHT (C) 2012 Louis Thiery. All rights reserved. Further work by Connor Wolf.
 
